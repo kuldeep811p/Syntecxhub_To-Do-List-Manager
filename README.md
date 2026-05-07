@@ -23,6 +23,6 @@ python todo_manager.py
 ║  1.  ➕  Add a task              ║
 ║  2.  📋  View tasks              ║
 ║  3.  ✅  Mark task as done       ║
-║  4.  🗑️   Delete a task           ║
+║  4.  🗑️   Delete a task          ║
 ║  5.  🚪  Exit                    ║
 ╚══════════════════════════════════╝
